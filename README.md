@@ -1,8 +1,8 @@
 ### Hi, I'm Sai (SSK)
 
-I build **AI automations that run in production** — founder of [Replix Lab](https://replixlab.com) (AI agency).
+I build **AI automations that run in production** — I build AI growht systems in [Replix Lab](https://replixlab.com).
 
-**Creator:** Telugu tech content on YouTube and Instagram — helping people ship faster with AI tools.
+**Creator:** AI and Tech content on YouTube and Instagram — helping people ship faster with AI tools.
 
 **What I'm shipping**
 
