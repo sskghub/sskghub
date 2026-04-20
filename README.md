@@ -1,6 +1,6 @@
 ### Hi, I'm Sai (SSK)
 
-I build **AI automations that run in production** — I build AI growht systems in [Replix Lab](https://replixlab.com).
+I build **AI automations that run in production** — I build AI growth systems in [Replix Lab](https://replixlab.com).
 
 **Creator:** AI and Tech content on YouTube and Instagram — helping people ship faster with AI tools.
 
