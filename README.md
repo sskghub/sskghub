@@ -16,7 +16,7 @@ I build **AI automations that run in production** — I build AI growth systems 
 **Links**
 
 - Replix Lab: [replixlab.com](https://replixlab.com)
-- YouTube / IG: [@ssktechy](https://www.youtube.com/@ssktechy.ai) (update with your preferred link)
+- YouTube / IG: [@ssktechy](https://www.youtube.com/@ssaisantosh_ssk) (update with your preferred link)
 
 ---
 
